@@ -1,0 +1,27 @@
+_repo: Hollowmellor-A-Schoolgirl-s-Mission_21667
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21667-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Burden, E. R.
+    gutenberg_agent_id: '24847'
+    url: http://www.gutenberg.org/2009/agents/24847
+description: ''
+gutenberg_issued: '2007-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Death -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: 'Hollowmell
+
+  or, A Schoolgirl''s Mission'
+url: http://www.gutenberg.org/ebooks/21667
